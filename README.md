@@ -1,4 +1,4 @@
-### LinkedIn AdBlocker
+# LinkedIn AdBlocker
 
 This minimalistic ad-blocker removes all promoted content from a LinkedIn user's feed.
 
@@ -6,3 +6,7 @@ This minimalistic ad-blocker removes all promoted content from a LinkedIn user's
 ## Supported Browsers
 
 Only Chromium based browsers (Chrome, Microsoft Edge, Opera, Brave). Firefox and Safari are not supported.
+
+### Language
+
+• JavaScript
